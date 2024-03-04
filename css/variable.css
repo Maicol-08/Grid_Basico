@@ -1,3 +1,6 @@
 :root{
-    --color-primary: #fff;
+    --color-primary: #ececec;
+    --color-secundary: #fff;
+    --color-shadows: 3px 3px 5px rgba(0, 0, 0, 0.122);
+
 }
